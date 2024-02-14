@@ -53,6 +53,13 @@ button {
     border-radius: 0.4rem;
 }
 
+button:hover {
+    color: black;
+    background-color: lightgray;
+    width: 18.5rem;
+    height: 3rem;
+}
+
 .container-head {
     display: flex;
     flex-direction: column;
